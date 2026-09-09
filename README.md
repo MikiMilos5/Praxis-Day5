@@ -293,10 +293,10 @@ sobald eine Änderung es wieder bricht, verschwindet der Haken. Du musst hier
 nichts von Hand pflegen — beim nächsten Push wird die Liste überschrieben.
 
 <!-- c50:progress -->
-**Fortschritt: 0 / 15 Kriterien erfüllt** ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ — Stand: 2026-09-09 06:50 UTC.
+**Fortschritt: 1 / 15 Kriterien erfüllt** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ — Stand: 2026-09-09 07:07 UTC.
 <!-- /c50:progress -->
 
-- [ ] ⬜ Auftrag 1: Bug 1 behoben — a1-hello.yml ist gültiges YAML mit runs-on im Job
+- [x] ✅ Auftrag 1: Bug 1 behoben — a1-hello.yml ist gültiges YAML mit runs-on im Job
 - [ ] ⬜ Auftrag 1: Bug 2 behoben — a2-actions.yml referenziert actions/setup-python korrekt
 - [ ] ⬜ Auftrag 1: Bug 3 behoben — requirements.txt enthält pytest
 - [ ] ⬜ Auftrag 1: Bug 4 behoben — a4-tests.yml nutzt einen existierenden Testpfad
