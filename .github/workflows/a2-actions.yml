@@ -1,6 +1,6 @@
 # Auftrag 1 - Bug 2
 # Symptom: Der Lauf bricht sofort ab, noch bevor ein Schritt startet.
-name: A2 Python-Version
+name: A2 Python-Version 2.0
 
 on: [push]
 
