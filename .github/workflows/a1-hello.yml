@@ -1,6 +1,6 @@
 # Auftrag 1 - Bug 1
 # Symptom: Dieser Workflow taucht im Tab "Actions" gar nicht auf.
-name: A1 Hello
+name: A1 Hello Test
 
 on: [push]
 
