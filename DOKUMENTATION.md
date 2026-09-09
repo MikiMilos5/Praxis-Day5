@@ -6,7 +6,7 @@
   "Format der Abgabe-Dateien". Diese Kommentarzeilen darfst du loeschen.
 -->
 
-**Gruppe:** <Name 1>, <Name 2>
+**Gruppe:** <Milos Radovanovic>
 
 ## Auftrag 1 — Broken Pipeline
 
