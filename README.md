@@ -293,7 +293,7 @@ sobald eine Änderung es wieder bricht, verschwindet der Haken. Du musst hier
 nichts von Hand pflegen — beim nächsten Push wird die Liste überschrieben.
 
 <!-- c50:progress -->
-**Fortschritt: 8 / 15 Kriterien erfüllt** 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ — Stand: 2026-09-09 08:37 UTC.
+**Fortschritt: 10 / 15 Kriterien erfüllt** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ — Stand: 2026-09-09 08:44 UTC.
 <!-- /c50:progress -->
 
 - [x] ✅ Auftrag 1: Bug 1 behoben — a1-hello.yml ist gültiges YAML mit runs-on im Job
@@ -303,8 +303,8 @@ nichts von Hand pflegen — beim nächsten Push wird die Liste überschrieben.
 - [x] ✅ Auftrag 1: DOKUMENTATION.md nennt die Ursache je Workflow (a1–a4)
 - [x] ✅ Auftrag 2: ci.yml vorhanden (der Workflow hinter dem Required Status Check)
 - [x] ✅ Auftrag 2: ci.yml enthält die Jobs lint und test
-- [ ] ⬜ Auftrag 2: Pull-Request-Template vorhanden (.github/pull_request_template.md)
-- [ ] ⬜ Auftrag 2: CODEOWNERS vorhanden und befüllt
+- [x] ✅ Auftrag 2: Pull-Request-Template vorhanden (.github/pull_request_template.md)
+- [x] ✅ Auftrag 2: CODEOWNERS vorhanden und befüllt
 - [x] ✅ Auftrag 2: Merge-Commit in der History (über Pull Request gemergt statt direkt gepusht)
 - [ ] ⬜ Auftrag 2: DOKUMENTATION.md beschreibt das Ruleset und den roten Pull Request
 - [ ] ⬜ Auftrag 3: Dependency-Caching in ci.yml aktiviert
