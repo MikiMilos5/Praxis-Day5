@@ -15,5 +15,4 @@ jobs:
       - name: Abhängigkeiten installieren
         run: pip install pytest
       - name: Tests
-        working-directory: src
         run: pytest -q
