@@ -12,10 +12,10 @@
 
 | Workflow | Symptom (wo bricht der Lauf ab?) | Ursache | Fix |
 | --- | --- | --- | --- |
-| <Workflow-Name ohne .yml> | <...> | <...> | <...> |
-| <Workflow-Name ohne .yml> | <...> | <...> | <...> |
-| <Workflow-Name ohne .yml> | <...> | <...> | <...> |
-| <Workflow-Name ohne .yml> | <...> | <...> | <...> |
+| a1-hello.yml | runs-on ist falsch eingerückt | <...> | runs-pn richtig einrücken |
+| a2-actions.yml | actions/setup-pyton falsch geschrieben | schreibfehler python | pyton auf --> python korrigiert |
+| a3-deps.yml | Beim ausführen von Requirements.txt | Pytest ist nicht in Requirements.txt aufgelistet | pytest in Requirements aufgenommen |
+| a4-tests.yml | Ausführen von working-directory: src | Falscher Testpfad angegeben weil src nicht existiert | working-directory: src rauslöschen |
 
 ## Auftrag 2 — PR-Gate
 
